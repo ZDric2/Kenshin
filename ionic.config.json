@@ -1,0 +1,7 @@
+{
+  "name": "kenken",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
