@@ -1,0 +1,33 @@
+ion-content{
+    --background: black;
+   
+   }
+   .student-profile .card {
+       border-radius: 30px;
+   }
+   .student-profile .card .card-header .profile_img {
+       width: 150px;
+       height: 150px;
+       object-fit: cover;
+       margin: 10px auto;
+       border: 10px solid rgb(68, 55, 55);
+       border-radius: 30%;
+   }
+   .student-profile .card h3 {
+       font-size: 30px;
+       font-weight: 700;
+   }
+   .student-profile .card p {
+       font-size: 20px;
+       color: #000;
+   }
+   .student-profile .table th,
+   .student-profile .table td {
+       font-size: 15px;
+       padding: 10px 10px;
+       color: #000;
+   }
+   h3{
+    color: #443737;
+   }
+   
